@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.fab{
+    color: #0088a9;
+    font-size: 175px;
+    float: right;
+    margin-right: 225px;
+
+}
+.fab:hover{
+    color: #edf0f1;
+    font-size: 150px;
+    cursor: pointer;
+}
