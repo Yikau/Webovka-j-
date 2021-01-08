@@ -11,30 +11,30 @@
 .meinfo{
     float: right;
     margin-right: 80px;
+    opacity: 0.85;
     border-style: solid;
     border-width: 5px;
     border-color: #0088a9;
     border-radius: 15px;
     cursor: pointer;
+
 }
 
-.mangainfo{
-    float: right;
-    margin-right: 120px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: #0088a9;
-    border-radius: 15px;
-    cursor: pointer;
+.meinfo:hover{
+    transition: 0.2s;
+    opacity: 1;
+
 }
 
-.nadpis1{
+.infoome h2 {
     font-family: "Montserrat", sans-serif;
-    margin: 5px;
+    padding: 5px;
 
 }
 
-.infoome h2{
-    font-family: "Montserrat", sans-serif;
-    margin: 5px;
+.infoboxxd{
+    width: 1800px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
